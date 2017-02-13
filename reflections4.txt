@@ -1,0 +1,10 @@
+How can you use the commands git log and git diff to view the history of files?
+
+git log
+1. cd into the right folder and enter git log
+2. scroll through commits by using the arrow buttons
+3. exit git log by typing q
+
+git diff
+1. copy the right id's via git log
+2. compare to commits by using git diff id1 id2

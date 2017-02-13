@@ -1,0 +1,8 @@
+Use diff in terminal to compare two files.
+
+Steps
+1. cd to the correct folder
+2. use the diff function with parameter -u
+
+Examle
+diff -u game_old.js game_new.js
